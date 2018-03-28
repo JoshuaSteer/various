@@ -1,0 +1,6 @@
+cythonTests/build
+cythonTests/.ipynb_checkpoints
+cythonTests/__pycache__
+cythonTests/*.c
+cythonTests/*.pyd
+cythonTests/*.pyc
